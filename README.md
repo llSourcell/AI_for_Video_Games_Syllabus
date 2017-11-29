@@ -9,7 +9,6 @@ This is the Syllabus for Siraj Raval's Reinforcement Learning course "AI for Vid
 
 ## Week 2
 - Monte Carlo Prediction
-- Monte Carlo with Epsilon-Greedy Policies and off-policy control with importance sampling
 
 ## Week 3
 - Q Learning
