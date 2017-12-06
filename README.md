@@ -12,7 +12,6 @@ This is the Syllabus for Siraj Raval's Reinforcement Learning course "AI for Vid
 
 ## Week 3
 - Q Learning
-- Deep Q Learning
 
 ## Week 4
 - Policy Gradients
