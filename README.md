@@ -15,28 +15,26 @@ This is the Syllabus for Siraj Raval's Reinforcement Learning course "AI for Vid
 
 ## Week 4
 - Policy Gradients
-- Actor Critic 
 
 ## Week 5
+- Actor Critic 
+
+## Week 6
 - TRPO 
 - PPO 
 
-## Week 6
+## Week 7
 - Deep RL experimentation
 - Stochastic Computation Graphs + SVG + DDP
 
-## Week 7
+## Week 8
 - Derivative Free methods
 - HyperNEAT
 
-## Week 8
+## Week 9 
 - Model based RL
 - Inverse RL 
 
-## Week 9 
+## Week 10
 - Imitation learning
 - Open Problems
-
-## Week 10
-- Future Directions for RL
-- A technique i'll talk about that hasn't even been created yet when i made this syllabus because this field moves fast AF
