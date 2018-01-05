@@ -23,18 +23,3 @@ This is the Syllabus for Siraj Raval's Reinforcement Learning course "AI for Vid
 - TRPO 
 - PPO 
 
-## Week 7
-- Deep RL experimentation
-- Stochastic Computation Graphs + SVG + DDP
-
-## Week 8
-- Derivative Free methods
-- HyperNEAT
-
-## Week 9 
-- Model based RL
-- Inverse RL 
-
-## Week 10
-- Imitation learning
-- Open Problems
